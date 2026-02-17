@@ -1,2 +1,25 @@
-# noise-induced-quintessence
-This project investigates how multiplicative stochastic noise influences the late‑time dynamics of a minimally coupled scalar‑field dark energy model motivated by DESI DR2 hints for evolving dark energy.
+# Noise-Induced Transitions in Quintessence-Like Dark Energy  
+Sensitivity to Stochastic Vacuum Fluctuations
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This repository contains the code, data, and figures for the paper:
+
+**"Noise-Induced Transitions in Quintessence-Like Dark Energy: Sensitivity to Stochastic Vacuum Fluctuations"**  
+Author: Micah David Thornton  
+Draft version: February 2026  
+Companion to: Thornton (2026), "A Phenomenological Model for Evolving Dark Energy Inspired by DESI DR2" (arXiv: tba)
+
+## Overview
+
+This work presents large-scale numerical ensembles (50,000 realizations per noise strength σ) exploring how multiplicative stochastic noise affects late-time dark energy behavior in a scalar field model with nonlinear advection, hyperdiffusion, and running vacuum.  
+
+Key findings:
+- At low noise (σ ≲ 0.02), the field remains frozen near w ≈ -1 (Λ-like).
+- At moderate noise (σ ≈ 0.05), w(0) shifts to \~ -0.85 (quintessence-like, consistent with DESI DR2 hints).
+- At higher noise (σ ≳ 0.1), mean w(0) becomes positive → loss of acceleration.
+- Parameter tuning (reduced β, increased κ) extends the viable acceleration window.
+
+The transition reveals a critical noise threshold (σ_c ≈ 0.06 in tuned case) that constrains vacuum fluctuation amplitudes cosmologically.
+
+## Repository Contents
