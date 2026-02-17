@@ -22,4 +22,5 @@ Key findings:
 
 The transition reveals a critical noise threshold (σ_c ≈ 0.06 in tuned case) that constrains vacuum fluctuation amplitudes cosmologically.
 
-## Repository Contents
+## Author's Note
+The draft contained in this repository is a very *ROUGH* draft. It will be fleshed out and refined and is not being presented as a complete work. 
