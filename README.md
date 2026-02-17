@@ -9,7 +9,7 @@ This repository contains the code, data, and figures for the paper:
 Author: Micah David Thornton  
 Draft version: February 2026  
 
-Companion to: Thornton (2026), "A Phenomenological Model for Evolving Dark Energy Inspired by DESI DR2" (https:/eddycosmology/eddy-de-collapse)
+Companion to: Thornton (2026), "A Phenomenological Model for Evolving Dark Energy Inspired by DESI DR2" (https://eddycosmology/eddy-de-collapse)
 
 ## Overview
 
