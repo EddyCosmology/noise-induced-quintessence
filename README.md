@@ -8,7 +8,7 @@ This repository contains the code, data, and figures for the paper:
 **"Noise-Induced Transitions in Quintessence-Like Dark Energy: Sensitivity to Stochastic Vacuum Fluctuations"**  
 Author: Micah David Thornton  
 Draft version: February 2026  
-Companion to: Thornton (2026), "A Phenomenological Model for Evolving Dark Energy Inspired by DESI DR2" (arXiv: tba)
+Companion to: Thornton (2026), "A Phenomenological Model for Evolving Dark Energy Inspired by DESI DR2" (https:/eddycosmology/eddy-de-collapse)
 
 ## Overview
 
