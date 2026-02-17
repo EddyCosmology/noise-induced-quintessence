@@ -25,3 +25,14 @@ The transition reveals a critical noise threshold (σ_c ≈ 0.06 in tuned case) 
 
 ## Author's Note
 The draft contained in this repository is a very *ROUGH* draft. It will be fleshed out and refined and is not being presented as a complete work. 
+
+### Status
+Exploratory independent research project by Micah David Thornton (@EddyCosmology). 
+
+Feedback, comments, or collaboration welcome via Issues or X. 
+If using/citing: Please reference the draft and this repo. Thank you and star if you like my work.
+
+**Keywords**: cosmology, dark energy, DESI DR2, evolving DE, stochastic collapse, vacuum suppression, objective collapse models, quintessence
+
+### License Information
+The preprint manuscript (PDF and LaTeX content) is additionally liscensed under Creative Commons Attribution 4.0 International (CC-BY-4.0): https://creativecommons.org/licenses/by/4.0/. Code and figures remain licensed under the MIT License (see LICENSE file).
