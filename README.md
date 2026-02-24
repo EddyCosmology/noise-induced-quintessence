@@ -16,8 +16,8 @@ Companion to: Thornton (2026a), "A Phenomenological Model for Evolving Dark Ener
 This work presents large-scale numerical ensembles (50,000 realizations per noise strength σ) exploring how multiplicative stochastic noise affects late-time dark energy behavior in a scalar field model with nonlinear advection, hyperdiffusion, and running vacuum.  
 
 Key findings:
-We uncover a previously unidentified critical noise threshold-hereafter the **Thornton Noise Threshold (σ_c ≈ 0.06 in tuned parameters)** that constrains vacuum fluctuation amplitudes cosmologically.
-- At low noise (σ ≲ 0.02), the field remains frozen near w ≈ -1 (Λ-like).
+We uncover a previously unidentified critical noise threshold-hereafter the **Thornton Noise Threshold (σ_c ≈ 0.045-0.05 in tuned parameters)** that constrains vacuum fluctuation amplitudes cosmologically. (Updated σ_c value based on new Milstein (n=10k) analysis, was σ_c ≈ 0.06 and will be updated and noted to reflect stronger statistical analysis in both papers for transparency.)
+- At low noise (σ ≲ 0.02), the field remains frozen near w ≈ -1 (Λ-like). 
 - At moderate noise (σ ≈ 0.05), w(0) shifts to \~ -0.85 (quintessence-like, consistent with DESI DR2 hints).
 - At higher noise (σ ≳ 0.1), mean w(0) becomes positive → loss of acceleration.
 - Parameter tuning (reduced β, increased κ) extends the viable acceleration window.
