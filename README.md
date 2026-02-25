@@ -14,7 +14,7 @@ Companion to: Thornton (2026a), "A Phenomenological Model for Evolving Dark Ener
 # IMPORTANT AUTHOR'S NOTE  
 **(Last updated: February 25, 2026)**
 
-**All quantitative claims about σ_c, the exact location of the transition, and the boundaries of the viable window in early drafts should be considered superseded by the results presented in the most recent PDF versions or future versions, if changed. As this is a iteravive work in progress and as better numerical results become available, drafts will be updated to reflect important changes and to preserve transparency and scientific rigor.**
+**All quantitative claims about σ_c, the exact location of the transition, and the boundaries of the viable window in early drafts should be considered superseded by the results presented in the most recent PDF versions or future versions, if changed. As this is an active, iteravive project and as better numerical results become available, drafts will be updated to reflect important changes and to preserve transparency and scientific rigor. Thank you for your understanding.**
 
 ## Overview
 
@@ -28,13 +28,10 @@ We uncover a previously unidentified critical noise threshold-hereafter the **Th
 - Parameter tuning (reduced β, increased κ) extends the viable acceleration window.
 
 The qualitative conclusions remain unchanged and robust:
-- A sharp noise-induced transition exists where multiplicative stochastic noise destabilizes the frozen quintessence-like attractor.
+- A sharp noise-induced transition (Thornton Noise Threshold) exists where multiplicative stochastic noise destabilizes the frozen quintessence-like attractor.
 - Mean w(0) shifts from near −1 at low σ → ≈ −0.87 at moderate σ → crosses −1/3 and becomes positive at higher σ.
 - The model provides a mechanism consistent with DESI DR2 hints of evolving dark energy, with testable predictions (f_NL ∼10–50, suppressed σ₈, etc.).
 
-Updated PDFs, figures, and code reflecting the latest results are in the repository. Future arXiv submission will use the most recent version.
-
-Thank you for your understanding — this is an active, iterative project. Feedback is welcome!
 
 ### Status
 Exploratory independent research project by Micah David Thornton (@EddyCosmology). 
