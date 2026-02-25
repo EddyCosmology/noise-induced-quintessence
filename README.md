@@ -11,6 +11,11 @@ Draft version: February 2026
 
 Companion to: Thornton (2026a), "A Phenomenological Model for Evolving Dark Energy Inspired by DESI DR2" (https://eddycosmology/eddy-de-collapse)
 
+# IMPORTANT AUTHOR'S NOTE  
+**(Last updated: February 25, 2026)**
+
+**All quantitative claims about σ_c, the exact location of the transition, and the boundaries of the viable window in the February 20 drafts should be considered superseded by the results presented in the most recent PDF versions (look for files dated February 24–25, 2026 or later).**
+
 ## Overview
 
 This work presents large-scale numerical ensembles (50,000 realizations per noise strength σ) exploring how multiplicative stochastic noise affects late-time dark energy behavior in a scalar field model with nonlinear advection, hyperdiffusion, and running vacuum.  
@@ -21,19 +26,6 @@ We uncover a previously unidentified critical noise threshold-hereafter the **Th
 - At moderate noise (σ ≈ 0.05), w(0) shifts to \~ -0.85 (quintessence-like, consistent with DESI DR2 hints).
 - At higher noise (σ ≳ 0.1), mean w(0) becomes positive → loss of acceleration.
 - Parameter tuning (reduced β, increased κ) extends the viable acceleration window.
-
-# IMPORTANT AUTHOR'S NOTE / DISCLAIMER  
-**(Last updated: February 25, 2026)**
-
-**Previous draft versions of both preprints are now obsolete with respect to certain quantitative claims.**
-
-The documents currently in this repository (dated February 20, 2026) represent **early drafts**. Since their initial upload, I have continued numerical work with larger ensembles (up to 10,000 realizations per σ), refined parameter tuning (e.g., m=3, ϕ₀=0.01, Ω_m=0.5), and improved integration stability (Milstein scheme). These updates have slightly shifted some numerical results:
-
-- The critical noise threshold (now named the **Thornton Noise Threshold**) is found at σ_c ≈ **0.045–0.05** in the current fiducial tuning, rather than the approximate σ_c ≈ 0.06 stated in the February 20 drafts.
-- The viable acceleration window (where w(0) ≲ −0.85) extends to σ ≈ 0.045–0.05, not 0.05 exactly as previously estimated.
-- Moderate-noise w(0) is ≈ −0.87 in this tuning (still consistent with DESI DR2 hints of ≈ −0.86 locally).
-
-**All quantitative claims about σ_c, the exact location of the transition, and the boundaries of the viable window in the February 20 drafts should be considered superseded by the results presented in the most recent PDF versions (look for files dated February 24–25, 2026 or later).**
 
 The qualitative conclusions remain unchanged and robust:
 - A sharp noise-induced transition exists where multiplicative stochastic noise destabilizes the frozen quintessence-like attractor.
