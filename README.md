@@ -14,14 +14,14 @@ Companion to: Thornton (2026a), "A Phenomenological Model for Evolving Dark Ener
 # IMPORTANT AUTHOR'S NOTE  
 **(Last updated: February 25, 2026)**
 
-**All quantitative claims about σ_c, the exact location of the transition, and the boundaries of the viable window in the February 20 drafts should be considered superseded by the results presented in the most recent PDF versions (look for files dated February 24–25, 2026 or later).**
+**All quantitative claims about σ_c, the exact location of the transition, and the boundaries of the viable window in early drafts should be considered superseded by the results presented in the most recent PDF versions or future versions, if changed. As this is a iteravive work in progress and as better numerical results become available, drafts will be updated to reflect important changes and to preserve transparency and scientific rigor.**
 
 ## Overview
 
-This work presents large-scale numerical ensembles (50,000 realizations per noise strength σ) exploring how multiplicative stochastic noise affects late-time dark energy behavior in a scalar field model with nonlinear advection, hyperdiffusion, and running vacuum.  
+This work presents large-scale numerical ensembles for both Euler-Maruyama and Milstein schemes (50,000 realizations per noise strength σ) exploring how multiplicative stochastic noise affects late-time dark energy behavior in a scalar field model with nonlinear advection, hyperdiffusion, and running vacuum.  
 
 Key findings:
-We uncover a previously unidentified critical noise threshold-hereafter the **Thornton Noise Threshold (σ_c ≈ 0.045-0.05 in tuned parameters)** that constrains vacuum fluctuation amplitudes cosmologically. (Updated σ_c value based on new Milstein (n=10k) analysis, was σ_c ≈ 0.06 and will be updated and noted to reflect stronger statistical analysis in both papers for transparency.)
+We uncover a previously unidentified critical noise threshold-hereafter the **Thornton Noise Threshold (σ_c ≈ 0.045-0.05 in tuned parameters)** that constrains vacuum fluctuation amplitudes cosmologically. (Updated σ_c value based on new Milstein (n=50k) analysis, was σ_c ≈ 0.06 to reflect stronger statistical analysis.)
 - At low noise (σ ≲ 0.02), the field remains frozen near w ≈ -1 (Λ-like). 
 - At moderate noise (σ ≈ 0.05), w(0) shifts to \~ -0.85 (quintessence-like, consistent with DESI DR2 hints).
 - At higher noise (σ ≳ 0.1), mean w(0) becomes positive → loss of acceleration.
